@@ -1,0 +1,128 @@
+[
+  {
+    "Id": 1,
+    "Name": "FizzBuzz",
+    "Description": "A program that writes out every number from 1-100 in a row. If the number is divisible with 3 it will replace the number with Fizz. If the number is divisible with 5 it will instead write out Buzz. If it's divisible with both 3 and 5. Then it will write out Fizzbuzz",
+    "ImageName": "FizzBuzz.png"
+  },
+  {
+    "Id": 2,
+    "Name": "MVC Portfolio",
+    "Description": "A basic portfolio site made in visual studio using MVC. Lists projects I've done during the course.",
+    "ImageName": "MVCPortfolio.png"
+  },
+  {
+    "Id": 3,
+    "Name": "Training Diary",
+    "Description": "Training diary site built using mvc. Users can add exercises with name and description as well as adding training sessions with date and what exercise they did.",
+    "ImageName": "TrainingDiary.png"
+  },
+  {
+    "Id": 4,
+    "Name": "TicTacToe",
+    "Description": "This is a program built in Visual studios. To emulate the game TicTacToe. TicTacToe is a game where 2 players take turn placing either a cross or a circle and whoever gets 3 in a line wins.",
+    "ImageName": "TicTacToe.png"
+  },
+  {
+    "Id": 5,
+    "Name": "Company Page",
+    "Description": "This is a project built in Visual studios using MVC with the goal of trying to make a Company page. It has a Homepage, About us, Employee page and Contact page.",
+    "ImageName": "CompanyPage.png"
+  },
+  {
+    "Id": 6,
+    "Name": "Recipe Page MVC",
+    "Description": "This is a a recipe site built using MVC. It shows the recipes in a list with name, description and image. Every recipe can be clicked on and have it's own page.",
+    "ImageName": "RecipeMVC.png"
+  },
+  {
+    "Id": 7,
+    "Name": "Recipe Page SQL",
+    "Description": "This is another recipe page in Visual studio built using Mvc. But this time the recipes are saved in and accessed from an SQL database. Recipes are shown in a list with each one having their own page through details",
+    "ImageName": "RecipeSQL.png"
+  },
+  {
+    "Id": 8,
+    "Name": "Bloggpost SQL",
+    "Description": "Made in Visual studios. This is another MVC project to simulate a blogg. The data is stored and accessed from an SQL database. Each blogg post has a title, a summary and text. With validation for length for each post",
+    "ImageName": "BloggpostSQL.png"
+  },
+  {
+    "Id": 9,
+    "Name": "Training Diary SQL",
+    "Description": "Another MVC project. Using SQL as database. Shows a training diary where you can create training sessions and specifying what type, how many sets, reps and what weight. All of them are interactable and can be edited or removed",
+    "ImageName": "TrainingDiarySQL.png"
+  },
+  {
+    "Id": 10,
+    "Name": "Recipe List API",
+    "Description": "This is a Web API with CRUD operations built in Visual studios. Can be used to Show, Create, Edit and Delete Recipes. Using MongoDb as database.",
+    "ImageName": "RecipeListAPI.png"
+  },
+  {
+    "Id": 11,
+    "Name": "Blogg Platform API",
+    "Description": "This is a Web API with CRUD operations for a blogg platform. Can be used to Show, Create, Edit and Delete blogg posts",
+    "ImageName": "BloggplatformAPI.png"
+  },
+  {
+    "Id": 12,
+    "Name": "CV Portfolio Nodejs and Express",
+    "Description": "This is a very basic portfolio site made using Nodejs, Express and Express handlebars. It got a Homepage, About me, Earlier works and Contact information.",
+    "ImageName": "CVPortfolioHBS.png"
+  },
+  {
+    "Id": 13,
+    "Name": "Recipe list with Express and Node js",
+    "Description": "This is a recipe list site made with express, node js and express handlebars. It shows a list of recipes in a list. It also got CRUD operations so you can Create, Show, Edit and Delete each recipe",
+    "ImageName": "RecipeListNodeJS.png"
+  },
+  {
+    "Id": 14,
+    "Name": "Restaurant Page with VueJS",
+    "Description": "This is a restaurant page built with VueJS. It got a Homepage, Lunch menu and a contact page ",
+    "ImageName": "RestaurantVue.png"
+  },
+  {
+    "Id": 15,
+    "Name": "Blogg Site with VueJS",
+    "Description": "This is a blogg site built with VueJS. On the frontpage you can see all posts and if you click on the posts you get to a page with just that blogg post.",
+    "ImageName": "BloggpostsVue.png"
+  },
+  {
+    "Id": 16,
+    "Name": "Todo list with VueJS",
+    "Description": "This is a Todo list made with VueJS. On the frontpage you can see all current todos' as well as create new ones with an input field and a button. Every todo has a title and can be checked as cleared and also deleted. ",
+    "ImageName": "TodoListVue.png"
+  },
+  {
+    "Id": 17,
+    "Name": "Web Store with VueJS",
+    "Description": "This is a web store site made with VueJS. On the frontpage you can see all products with image, name and price. If you click on a product you get to another page where you can select amount as well as a buy button.",
+    "ImageName": "WebStoreVue.png"
+  },
+  {
+    "Id": 18,
+    "Name": "Loan CRUD API",
+    "Description": "This is an extension of the BookAPI that was made during the lesson. Where I added a Loan model and CRUD operations to it.",
+    "ImageName": "LoanCRUD.png"
+  },
+  {
+    "Id": 19,
+    "Name": "Blogg API",
+    "Description": "This is an API of blogg posts built in Visual studios with data stored in SQL. It has CRUD operations and every post has a Title, Content and Date.",
+    "ImageName": "BloggAPI.png"
+  },
+  {
+    "Id": 20,
+    "Name": "Blogg Frontend and Backend",
+    "Description": "This is a follow up to the Blogg post API. Where I create the Frontend of it and connect it to my API. It's built with VueJS and a user can see all the posts, Create new ones, edit and delete posts.",
+    "ImageName": "BloggpostFrontAndBack.png"
+  },
+  {
+    "Id": 21,
+    "Name": "Todo List Front and Backend",
+    "Description": "This is an improvement of the earlier todo list. Here i built the backend in visual studios with CRUD operations. Data from Sql and the frontend is built with Vue. Every todo has a title, a date and can be marked as finished. A user can create, show, edit and delete posts in the app",
+    "ImageName": "TodoFrontAndBack.png"
+  }
+]
